@@ -1,0 +1,57 @@
+Fri Nov 25 07:54:41 CET 2011
+
+////////////////////
+Low Diference Of Temperature and Low Stream of People 
+////////////////////
+Singleton Waiting Time 00s : 16.616617% Safe -- Time Without Crossing: 667.0s  -- Used: 0.0s/person -- Open the door to cross: 833.0 -- The door open when cross: 166.0
+Singleton Waiting Time 15s : 50.0% Safe -- Time Without Crossing: 7000.0s  -- Used: 7.0s/person -- Open the door to cross: 500.0 -- The door open when cross: 500.0
+Singleton Waiting Time 60s : 85.71429% Safe -- Time Without Crossing: 7722.0s  -- Used: 8.0s/person -- Open the door to cross: 143.0 -- The door open when cross: 858.0
+My FuzzySystem             : 49.94995% Safe -- Time Without Crossing: 5334.0s  -- Used: 5.0s/person -- Open the door to cross: 500.0 -- The door open when cross: 499.0
+////////////////////
+
+////////////////////
+Low Diference Of Temperature and middle Stream of People 
+////////////////////
+Singleton Waiting Time 00s : 29.977985% Safe -- Time Without Crossing: 1501.0s  -- Used: 0.0s/person -- Open the door to cross: 3499.0 -- The door open when cross: 1498.0
+Singleton Waiting Time 15s : 86.66533% Safe -- Time Without Crossing: 5164.0s  -- Used: 1.0s/person -- Open the door to cross: 667.0 -- The door open when cross: 4335.0
+Singleton Waiting Time 60s : 96.14077% Safe -- Time Without Crossing: 5608.0s  -- Used: 1.0s/person -- Open the door to cross: 193.0 -- The door open when cross: 4808.0
+My FuzzySystem             : 93.25596% Safe -- Time Without Crossing: 4856.0s  -- Used: 1.0s/person -- Open the door to cross: 337.0 -- The door open when cross: 4660.0
+////////////////////
+
+////////////////////
+Low Diference Of Temperature and High Stream of People 
+////////////////////
+Singleton Waiting Time 00s : 42.864494% Safe -- Time Without Crossing: 1168.0s  -- Used: 0.0s/person -- Open the door to cross: 6662.0 -- The door open when cross: 4998.0
+Singleton Waiting Time 15s : 90.92778% Safe -- Time Without Crossing: 2609.0s  -- Used: 0.0s/person -- Open the door to cross: 1059.0 -- The door open when cross: 10614.0
+Singleton Waiting Time 60s : 97.72006% Safe -- Time Without Crossing: 2770.0s  -- Used: 0.0s/person -- Open the door to cross: 266.0 -- The door open when cross: 11401.0
+My FuzzySystem             : 94.28816% Safe -- Time Without Crossing: 2835.0s  -- Used: 0.0s/person -- Open the door to cross: 666.0 -- The door open when cross: 10994.0
+////////////////////
+////////////////////////////////////////////////////////////////////////////
+
+////////////////////
+Middle Diference Of Temperature and Low Stream of People 
+////////////////////
+Singleton Waiting Time 00s : 16.666668% Safe -- Time Without Crossing: 667.0s  -- Used: 0.0s/person -- Open the door to cross: 835.0 -- The door open when cross: 167.0
+Singleton Waiting Time 15s : 66.66667% Safe -- Time Without Crossing: 4328.0s  -- Used: 4.0s/person -- Open the door to cross: 333.0 -- The door open when cross: 666.0
+Singleton Waiting Time 60s : 85.68569% Safe -- Time Without Crossing: 7717.0s  -- Used: 8.0s/person -- Open the door to cross: 143.0 -- The door open when cross: 856.0
+My FuzzySystem             : 50.0% Safe -- Time Without Crossing: 2671.0s  -- Used: 3.0s/person -- Open the door to cross: 501.0 -- The door open when cross: 501.0
+////////////////////
+
+////////////////////
+Middle Diference Of Temperature and middle Stream of People 
+////////////////////
+Singleton Waiting Time 00s : 33.359985% Safe -- Time Without Crossing: 2333.0s  -- Used: 0.0s/person -- Open the door to cross: 3334.0 -- The door open when cross: 1669.0
+Singleton Waiting Time 15s : 88.317665% Safe -- Time Without Crossing: 5001.0s  -- Used: 1.0s/person -- Open the door to cross: 584.0 -- The door open when cross: 4415.0
+Singleton Waiting Time 60s : 96.29852% Safe -- Time Without Crossing: 5457.0s  -- Used: 1.0s/person -- Open the door to cross: 185.0 -- The door open when cross: 4813.0
+My FuzzySystem             : 87.76734% Safe -- Time Without Crossing: 4946.0s  -- Used: 1.0s/person -- Open the door to cross: 612.0 -- The door open when cross: 4391.0
+////////////////////
+
+////////////////////
+Middle Diference Of Temperature and High Stream of People 
+////////////////////
+Singleton Waiting Time 00s : 41.41596% Safe -- Time Without Crossing: 1334.0s  -- Used: 0.0s/person -- Open the door to cross: 6835.0 -- The door open when cross: 4832.0
+Singleton Waiting Time 15s : 90.93948% Safe -- Time Without Crossing: 2444.0s  -- Used: 0.0s/person -- Open the door to cross: 1057.0 -- The door open when cross: 10609.0
+Singleton Waiting Time 60s : 97.788635% Safe -- Time Without Crossing: 2607.0s  -- Used: 0.0s/person -- Open the door to cross: 258.0 -- The door open when cross: 11409.0
+My FuzzySystem             : 87.61464% Safe -- Time Without Crossing: 2445.0s  -- Used: 0.0s/person -- Open the door to cross: 1445.0 -- The door open when cross: 10222.0
+////////////////////
+////////////////////////////////////////////////////////////////////////////
