@@ -8,7 +8,7 @@ import controler.ConsoleThread;
 import controler.Constantes;
 import view.Main.ConsoleView;
 
-public class TestMejora {
+public class TestMejoraResumido {
 	
 	private static boolean debug=false;
 	private static Singelton S00S=new Singelton();
@@ -149,8 +149,7 @@ private static void RunDifTemMidlle() {
 		Constantes.setFIE(S00S);
 		Stadistics.clear();
 		CV=new ConsoleView(10000);	
-		System.out.print(Stadistics.geOVSNO()+"% Safe -- Time Without Crossing: " + Stadistics.getTotal() + "s  -- Used: " + Stadistics.getUsed()+ "s/person");
-		System.out.println(" -- Open the door to cross: " + Stadistics.getNoOpened() +" -- " + "The door open when cross: "+ Stadistics.getOpened());
+		System.out.println(Stadistics.geOVSNO()/Stadistics.getTotal());
 		if (debug) System.out.println(CV.getBuffer());
 		
 		
@@ -160,8 +159,7 @@ private static void RunDifTemMidlle() {
 		Constantes.setFIE(S15S);
 		Stadistics.clear();
 		CV=new ConsoleView(10000);	
-		System.out.print(Stadistics.geOVSNO()+"% Safe -- Time Without Crossing: " + Stadistics.getTotal() + "s  -- Used: " + Stadistics.getUsed()+ "s/person");
-		System.out.println(" -- Open the door to cross: " + Stadistics.getNoOpened() +" -- " + "The door open when cross: "+ Stadistics.getOpened());
+		System.out.println(Stadistics.geOVSNO()/Stadistics.getTotal());
 		if (debug) System.out.println(CV.getBuffer());
 		
 		
@@ -169,8 +167,7 @@ private static void RunDifTemMidlle() {
 		Constantes.setFIE(S60S);
 		Stadistics.clear();
 		CV=new ConsoleView(10000);	
-		System.out.print(Stadistics.geOVSNO()+"% Safe -- Time Without Crossing: " + Stadistics.getTotal() + "s  -- Used: " + Stadistics.getUsed()+ "s/person");
-		System.out.println(" -- Open the door to cross: " + Stadistics.getNoOpened() +" -- " + "The door open when cross: "+ Stadistics.getOpened());
+		System.out.println(Stadistics.geOVSNO()/Stadistics.getTotal());
 		if (debug) System.out.println(CV.getBuffer());
 		
 
@@ -179,8 +176,7 @@ private static void RunDifTemMidlle() {
 		Constantes.setFIE(MyFZS);
 		Stadistics.clear();
 		CV=new ConsoleView(10000);	
-		System.out.print(Stadistics.geOVSNO()+"% Safe -- Time Without Crossing: " + Stadistics.getTotal() + "s  -- Used: " + Stadistics.getUsed()+ "s/person");
-		System.out.println(" -- Open the door to cross: " + Stadistics.getNoOpened() +" -- " + "The door open when cross: "+ Stadistics.getOpened());
+		System.out.println(Stadistics.geOVSNO()/Stadistics.getTotal());
 		if (debug) System.out.println(CV.getBuffer());
 		System.out.println("////////////////////");
 		

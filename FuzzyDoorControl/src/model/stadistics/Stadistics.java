@@ -6,12 +6,12 @@ public class Stadistics {
 
 	private static int Opened=0;
 	private static int NoOpened=0;
-	private static int TimeNoCrosing=0;
+	private static int TimeNoCrosing=1;
 
 public static void clear(){
 					Opened=0;
 					NoOpened=0;
-					TimeNoCrosing=0;
+					TimeNoCrosing=1;
 					}
 public static void addOpened(int entran){
 	Opened=Opened+entran;
